@@ -21,6 +21,8 @@ Replicar o site conforme consta no arquivo "Protótipo.pdf", usando:
 - Você vai precisar explicar o porque fez e a forma que fez, e talvez ser solicitada que mude algo para outra forma na hora de apresentar. Assim saberemos se você entendeu o que desenvolveu.
 - A fonte e a cor fica a seu critério. Em uma pasta neste repositório contém as imagens para serem usadas.
 - Em programação, é possível fazer a mesma coisa de várias formas diferentes. Faça da forma que você sentir que mais compreendeu o processo, mesmo que nesse momento o código não fique tão bem escrito como você gostaria.
+- Curso React - Para ver instalação e até a parte de criação de componentes (Basta ver até o vídeo 4)
+https://www.youtube.com/watch?v=FXqX7oof0I4&list=PLnDvRpP8BneyVA0SZ2okm-QBojomniQVO
 
 ## Como entregar o teste 📦
 
