@@ -40,10 +40,14 @@ Replicar o site conforme consta do design, usando:
 Desenvolva o projeto usando um repositório pessoal para armazenar o seu código. O motivo em específico, é que também será avaliado a qualidade da escrita e organização das branchs e commits que você fez ao longo do desenvolvimento.
 Você tem o prazo total de __**07 (sete) dias corridos**__à contar da disponibilização do teste para entregá-lo. Sintam-se livre para, em caso de dúvida durante o processo ou precisando de esclarecimentos adicionais, entrar em contato conosco por meio do seguinte:
 <br />
+<br />
 E-mail: paperstreetsoftwares@gmail.com
+<br />
 <br />
 Telefone: WhatsApp já adicionado.
 <br />
+<br />
 Agradecemos novamente por considerar a PaperStreet Software para o seu estágio. Estamos ansiosos para revisar o seu teste e esperamos contar com a sua colaboração em nossa equipe.
+<br />
 <br />
 Não se preocupe, você vai tirar de letra. Já confiamos em você. 😉
