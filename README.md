@@ -44,7 +44,7 @@ Você tem o prazo total de 07 (sete) dias corridos à contar da disponibilizaç�
 <br />
 E-mail: paperstreetsoftwares@gmail.com
 <br />
-Telefone: WhatsApp já adicionado.
+Telefone: WhatsApp já disponibilizado.
 <br />
 <br />
 Agradecemos novamente por considerar a PaperStreet Software para o seu estágio. Estamos ansiosos para revisar o seu teste e esperamos contar com a sua colaboração em nossa equipe.
