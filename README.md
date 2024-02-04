@@ -1,13 +1,14 @@
 # Teste para Estágio em Front-End 🚀
 
-Olá, Ilca! Seja bem-vinda ao teste para estágio em Frontend na Paper Street Softwares.
+Olá! Sejam bem-vindos ao teste para estágio em Frontend na Paper Street Softwares.
 
 ## Objetivo 🎯
 
-Replicar o site conforme consta no arquivo "Protótipo.pdf", usando:
+Replicar o site conforme consta do design, usando:
 
 - NPM como gerenciador de pacotes;
 - React como framework frontend;
+- Tailwind como framework de estilização;
 - Conceito DRY (Dont Repeat Yourself);
 - GIT e Github como versionamento;
 - Conventional commit como padrão de mensagem de commit. Ex:
@@ -18,16 +19,24 @@ Replicar o site conforme consta no arquivo "Protótipo.pdf", usando:
 
 ## Infos ℹ️
 
-- Você vai precisar explicar o porque fez e a forma que fez, e talvez ser solicitada que mude algo para outra forma na hora de apresentar. Assim saberemos se você entendeu o que desenvolveu.
-- A fonte e a cor fica a seu critério. Em uma pasta neste repositório contém as imagens para serem usadas.
+- Você vai precisar explicar o porque fez e a forma que fez, e talvez ser solicitados que mude algo para outra forma na hora de apresentar. Assim saberemos se você entendeu o que desenvolveu.
+- Fonte, cor e imagens utilizadas no projeto estão todas disponíveis pelo Figma com endereço anexo ao final deste documento. 
 - Em programação, é possível fazer a mesma coisa de várias formas diferentes. Faça da forma que você sentir que mais compreendeu o processo, mesmo que nesse momento o código não fique tão bem escrito como você gostaria.
-- Curso React - Para ver instalação e até a parte de criação de componentes (Basta ver até o vídeo 4)
-https://www.youtube.com/watch?v=FXqX7oof0I4&list=PLnDvRpP8BneyVA0SZ2okm-QBojomniQVO
+
+## Links 🔗
+- Desing no Figma (cor, fontes e imagens estão disponibilizadas dentro do projeto e serão avaliadas):
+   https://www.figma.com/file/qPGglafp4RVp6YSeQTXoPz/Fintech-Landingpage-Concept-(Community)?type=design&node-id=82-3233&mode=design&t=LjqCvResLroWmyD4-0
+- Curso React - Para ver instalação e até a parte de criação de componentes (Basta ver até o vídeo 2)
+   https://www.youtube.com/watch?v=FXqX7oof0I4&list=PLnDvRpP8BneyVA0SZ2okm-QBojomniQVO
+- Documentação Tailwind CSS (Instalação já no React - vide vídeo de instalação para dúvidas):
+   https://tailwindcss.com/docs/guides/create-react-app 
+- Instalação do Tailwind CSS:
+   https://www.youtube.com/watch?v=Bvd1Mr2P3_A&ab_channel=MatheusBattisti-HoradeCodar
+
+
 
 ## Como entregar o teste 📦
 
-Desenvolva o projeto usando este repositório para armazenar o seu código. O motivo em específico é que também será avaliada a qualidade da escrita e organização das branchs e commits que você fez ao longo do desenvolvimento.
+Desenvolva o projeto usando um repositório pessoal para armazenar o seu código. O motivo em específico, é que também será avaliado a qualidade da escrita e organização das branchs e commits que você fez ao longo do desenvolvimento.
 
-Quando tiver concluído, só me notificar.
-
-Não se preocupe, você vai tirar de letra. Já confio em você. 😉
+Não se preocupe, você vai tirar de letra. Já confiamos em você. 😉
