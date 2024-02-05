@@ -25,7 +25,7 @@ Replicar o site conforme consta do design, usando:
 
 ## Links 🔗
 - Desing no Figma (cor, fontes e imagens estão disponibilizadas dentro do projeto e serão avaliadas):
-   https://www.figma.com/file/qPGglafp4RVp6YSeQTXoPz/Fintech-Landingpage-Concept-(Community)?type=design&node-id=82-3233&mode=design&t=LjqCvResLroWmyD4-0
+   https://www.figma.com/file/qPGglafp4RVp6YSeQTXoPz/Teste-Frontend---N%C3%ADvel-Est%C3%A1gio?type=design&node-id=0%3A1&mode=design&t=9FroQg6FMiIFcoRk-1
 - Curso React - Para ver instalação e até a parte de criação de componentes (Basta ver até o vídeo 2)
    https://www.youtube.com/watch?v=FXqX7oof0I4&list=PLnDvRpP8BneyVA0SZ2okm-QBojomniQVO
 - Documentação Tailwind CSS (Instalação já no React - vide vídeo de instalação para dúvidas):
