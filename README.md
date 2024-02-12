@@ -13,9 +13,9 @@ Replicar o site conforme consta do design, usando:
 - GIT e Github como versionamento;
 - Conventional commit como padrão de mensagem de commit. Ex:
 
-   - Mensagem exemplo para inserir algo: "feat: Insere a logo" 🖼
+   - Mensagem exemplo para inserir algo: "feat: Insere a logo" 
    - Mensagem exemplo para reparar algo: "fix: Corrige a cor do botão" 
-   - Mensagem exemplo para todo o restante: "chore: Arrumação de pastas e arquivos internos" 🧹
+   - Mensagem exemplo para todo o restante: "chore: Arrumação de pastas e arquivos internos" 
 
 ## Infos ℹ️
 
